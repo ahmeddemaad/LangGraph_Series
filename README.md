@@ -20,8 +20,7 @@ In this series, we will cover various exciting projects such as:
 
 First, clone the repository to your local machine:
 
-    git clone https://github.com/your-username/LangGraph_Serie.git
-    
+    git clone https://github.com/ahmeddemaad/LangGraph_Series.git
 
 ### Step 2: Set Up Your Environment
 
