@@ -26,7 +26,7 @@ First, clone the repository to your local machine:
 
 We recommend using **Python 3.12.7** to run the notebook. You can use either a system-wide Python installation or create a virtual environment.
 
-#### Option 1: Using Conda to Create a Virtual Environment
+####  Using Conda to Create a Virtual Environment [Optional]
 
 1. **Create a Conda environment** with Python 3.12.7:
 
@@ -40,9 +40,7 @@ We recommend using **Python 3.12.7** to run the notebook. You can use either a s
     conda activate langgraph-serie
     ```
 
-### Step 3: Run the Notebooks
-
-Once your environment is set up and dependencies are installed, you can open and run the notebooks
+### Step 3: Here We goooo !!
 
 ---
 
