@@ -5,12 +5,12 @@ Welcome to **LangGraph_Series**, a hands-on series designed to help you understa
 ## What You'll Learn
 
 In this series, we will cover various exciting projects such as:
-
-- **Create a Simple Chatbot with GPT-4o**
-- **Enhance Your Chatbot with External Tools**
-- **Build a Podcast Interaction System using RAG**
-- **Add Voice to Your Chatbot** (Input/Output)
-- **Make Your PDFs Conversational with COLPALI/COLQWEN**
+- **Introduction to langGraph**  ✅
+- **Create a Simple Chatbot with GPT-4o**  ⏳
+- **Enhance Your Chatbot with External Tools** ⏳
+- **Build a Podcast Interaction System using RAG** ⏳
+- **Add Voice to Your Chatbot (Input/Output)** ⏳
+- **Make Your PDFs Conversational with COLPALI/COLQWEN** ⏳
 
 ---
 
