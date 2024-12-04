@@ -6,6 +6,10 @@ Welcome to **LangGraph_Series**, a hands-on series designed to help you understa
 
 In this series, we will cover various exciting projects such as:
 - **Introduction to langGraph**  ✅
+  - State/Nodes/Edges
+  - A Simple project
+  - Custom Tools / External tools
+  - Map Reduce
 - **Create a Simple Chatbot with GPT-4o**  ⏳
 - **Enhance Your Chatbot with External Tools** ⏳
 - **Build a Podcast Interaction System using RAG** ⏳
