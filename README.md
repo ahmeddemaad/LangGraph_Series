@@ -10,7 +10,7 @@ In this series, we will cover various exciting projects such as:
   - A Simple project
   - Custom Tools / External tools
   - Map Reduce
-  - Sub Graphs
+- **Sub-Graphs**  ✅
 - **Create a Simple Chatbot with GPT-4o**  ⏳
 - **Enhance Your Chatbot with External Tools** ⏳
 - **Build a Podcast Interaction System using RAG** ⏳
