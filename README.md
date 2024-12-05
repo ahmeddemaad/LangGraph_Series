@@ -1,6 +1,6 @@
 # Lang-Graph Series : Exploring the Lang-Graph Framework
 
-Welcome to **LangGraph_Series**, a hands-on series designed to help you understand and implement the **Lang-Graph** framework. In this series, we'll explore Lang-Graph through practical projects starting with basic concepts and advancing to real-world applications.
+Welcome to **LangGraph Series**, a hands-on series designed to help you understand and implement projects using **LangGraph** framework. In this series, we'll explore Lang-Graph through practical projects starting with basic concepts and advancing to real-world applications.
 
 ## What You'll Learn
 
